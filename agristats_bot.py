@@ -1,5 +1,5 @@
 # This is a bot created to tweet posts of www.agristats.eu in a specific schedule
-# The code is available under MIT license, as stipulated in https://github.com/iliastsergoulas/shinyapps/blob/master/LICENSE.
+# The code is available under MIT license, as stipulated in https://github.com/iliastsergoulas/tweetbot/blob/master/LICENSE.
 # Author: Ilias Tsergoulas
 
 import tweepy
