@@ -183,4 +183,4 @@ if __name__ == "__main__":
                     break
                 except tweepy.TweepError as e:
                     print(e.reason)
-            time.sleep(3600) # The time interval between tweets is one hour.
+        time.sleep(3600) # The time interval between tweets is one hour.
